@@ -1,0 +1,92 @@
+	<div class="two" id="two">
+		<header>
+			<h1 id="title">分类</h1>
+			<div class="shop" id="shop">购物车</div>
+		</header>
+		<div class="man">
+			<section id="fl" class="fl">
+				<div class="fl_tab">
+					<a href="#" class="b_color">分类浏览</a>
+					<a href="#">品牌浏览</a>
+				</div>
+				<div class="swiper-container">
+					<div class="swiper-wrapper">
+						<section class="swiper-slide">
+					<div class="all">
+						<div class="pic3">
+							<img src="../../../img/f1.png" class="img1">
+							<div>
+								<h2>女装</h2>
+								<p>
+									<a href="#">VT</a>
+									<a href="#">短袖</a>
+									<a href="#">衬衫</a>
+									<a href="#">牛仔库</a>
+								</p>
+							</div>
+							<span></span>
+						</div>
+						<div class="pic3">
+							<img src="../../../img/f2.png" class="img2">
+							<div>
+								<h2>女装</h2>
+								<p>
+									<a href="#">VT</a>
+									<a href="#">短袖</a>
+									<a href="#">衬衫</a>
+									<a href="#">牛仔库</a>
+								</p>
+								
+							</div>
+							<span></span>
+						</div>
+						<div class="pic3">
+							<img src="../../../img/f3.png" class="img3">
+							<div>
+								<h2>女装</h2>
+								<p>
+									<a href="#">VT</a>
+									<a href="#">短袖</a>
+									<a href="#">衬衫</a>
+									<a href="#">牛仔库</a>
+								</p>
+								
+							</div>
+							<span></span>
+						</div>
+						<div class="pic3">
+							<img src="../../../img/f4.png" class="img4">
+							<div>
+								<h2>女装</h2>
+								<p>
+									<a href="#">VT</a>
+									<a href="#">短袖</a>
+									<a href="#">衬衫</a>
+									<a href="#">牛仔库</a>
+								</p>
+								
+							</div>
+							<span></span>
+						</div>
+						<div class="pic3">
+							<img src="../../../img/f5.png" class="img5">
+							<div>
+								<h2>女装</h2>
+								<p>
+									<a href="#">VT</a>
+									<a href="#">短袖</a>
+									<a href="#">衬衫</a>
+									<a href="#">牛仔库</a>
+								</p>
+								
+							</div>
+						<span></span>
+						</div>
+					</div>
+					</section>
+						<section class="swiper-slide">最新品牌</section>
+					</div>
+				</div>
+			</section>
+		</div>
+</div>

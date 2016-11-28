@@ -1,0 +1,40 @@
+
+html,body,.m-container{
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
+body{
+  font-size: .2rem;
+}
+.m-container{
+  display: -webkit-flex;
+  -webkit-flex-direction:column;
+}
+.m-wrapper{
+  -webkit-flex:1;
+}
+footer{
+  width:100%;
+  height:.44rem;
+  line-height: .44rem;
+  background: #404146;
+  nav{
+    width:95%;
+    height:100%;
+    display: -webkit-flex;
+    .red{
+      background: #B01716;
+      color: #fff;
+    }
+    a{
+      display: block;
+      -webkit-flex:1;
+      text-decoration: none;
+      color:#939397;
+      text-align: center;
+      i{
+      }
+    }
+  }
+}

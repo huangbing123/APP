@@ -1,0 +1,13 @@
+<div class="m-container">
+    <div class="m-wrapper">
+
+    </div>
+    <footer>
+      <nav id="nav">
+        <a action-type="switch.tabs" data-tag="home">首页</a>
+        <a action-type="switch.tabs" data-tag="category">分类</a>
+        <a action-type="switch.tabs">退出</a>
+        <a action-type="switch.tabs" data-tag="my">我的秀</a>
+     </nav>
+    </footer>
+</div>
