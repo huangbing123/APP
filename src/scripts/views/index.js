@@ -5,7 +5,7 @@ SPA.defineView("index",{
    modules:[{                
        name:"content",        
        views:["home","category","my","shopp"],  
-       defaultTag:"home",     
+       defaultTag:"my",     
        container:".m-wrapper" 
    }],
    bindActions:{
